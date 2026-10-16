@@ -1,0 +1,5 @@
+My First Git Activity
+
+This is my first Git activity.
+
+I am learning how to use Git and GitHub for version control. I will practice creating a repository, adding files, committing changes, pushing changes to GitHub, and working with branches.
